@@ -36,5 +36,8 @@ Este projeto é de uso livre.
 
 Sinta-se à vontade para ajustar qualquer parte do texto!
 
+![Resultado final do Projeto](img/interface.PNG)
+![Resultado final do Projeto](img/demo.PNG)
+
 
 
